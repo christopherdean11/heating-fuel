@@ -1,1 +1,1 @@
-HEATFUELFILE = 'heat.json'
+HEATFUELFILE = 'heat.csv'
